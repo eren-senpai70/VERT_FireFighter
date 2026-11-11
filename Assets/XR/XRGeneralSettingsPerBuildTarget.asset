@@ -28,10 +28,9 @@ MonoBehaviour:
   m_Name: Android Providers
   m_EditorClassIdentifier: 
   m_RequiresSettingsUpdate: 0
-  m_AutomaticLoading: 0
-  m_AutomaticRunning: 0
+  m_AutomaticLoading: 1
+  m_AutomaticRunning: 1
   m_Loaders:
-  - {fileID: 11400000, guid: a6d876e4116312a42bea374d7a8ad70c, type: 2}
   - {fileID: 11400000, guid: 508b9d3de8e1f184b8fbb7397769da03, type: 2}
 --- !u!114 &6221956630041397937
 MonoBehaviour:
